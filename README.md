@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year student at IIIT Kota<br>I am a aspiring Java Developer specialized in Spring based technologies
+I am a final year student at IIIT Kota.<br>I am a aspiring Java Developer specialized in Spring based technologies.<br>Focused on writing clean, efficient code and mastering distributed systems.<br>Open to collaborations on Java projects—let's connect and build something great!
 
 
 ## 🌐 Socials:
